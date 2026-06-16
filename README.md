@@ -161,15 +161,17 @@ Includes:
 
 ### Executive Summary
 
-![Executive Summary](screenshots/executive_summary.png)
+![Executive Summary](sreeenshots/executive_summary.png)
+
 
 ### Risk Overview
 
-![Risk Overview](screenshots/risk_overview.png)
+![Risk Overview](sreeenshots/risk_overview.png)
+
 
 ### Operations Action Panel
 
-![Operations Action Panel](screenshots/operations_action_panel.png)
+![Operations Action Panel](sreeenshots/operations_action_panel.png)
 
 ---
 
