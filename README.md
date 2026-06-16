@@ -1,77 +1,85 @@
 # 🚚 Predictive Delivery Risk Intelligence System
 
-A Machine Learning-based logistics analytics platform that predicts shipment delay risk before dispatch and helps operations teams prioritize high-risk orders using predictive intelligence.
+A Machine Learning-powered logistics analytics platform that predicts shipment delay risk before dispatch and enables operations teams to proactively manage high-risk deliveries.
+
+---
+
+## 🌐 Live Demo
+
+**Live Application:** https://your-render-link.onrender.com
+
+---
+
+## 📂 GitHub Repository
+
+**Repository:** https://github.com/Hitesh20377/Delivery-Risk-Prediction
 
 ---
 
 ## 📌 Project Overview
 
-Late deliveries lead to customer dissatisfaction, SLA breaches, and increased operational costs.
+Late deliveries create operational inefficiencies, customer dissatisfaction, SLA violations, and increased costs.
 
-This project uses Machine Learning to:
+This project provides a predictive solution that helps logistics teams identify risky shipments before dispatch and prioritize operational actions using machine learning.
 
-- Predict delivery delay risk before shipment
-- Identify high-risk orders
-- Analyze risky regions and shipping modes
-- Quantify sales and profit exposure
-- Provide actionable operational recommendations
+The system analyzes shipping, order, product, and customer information to generate delay probabilities and risk categories for proactive decision-making.
 
 ---
 
-## 🎯 Business Problem
+## 🎯 Business Objective
 
-APL Logistics requires a proactive system that can:
+The primary objectives of this project are:
 
-- Detect potential shipment delays early
-- Prioritize risky shipments
-- Improve customer communication
-- Reduce operational disruption
-- Support data-driven logistics planning
+* Predict late delivery risk before shipment
+* Identify high-risk orders requiring intervention
+* Quantify sales and profit exposure
+* Analyze risky markets, regions, and shipping modes
+* Improve operational planning and customer communication
 
 ---
 
 ## 📊 Dataset
 
-**Source:**
+**Dataset Source:**
 
-:contentReference[oaicite:0]{index=0}
+https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis
 
-Dataset contains:
+### Dataset Includes
 
-- Order Information
-- Shipping Details
-- Customer Segments
-- Markets & Regions
-- Product Data
-- Sales & Profit Metrics
-- Delivery Status
+* Order Information
+* Customer Information
+* Shipping Details
+* Product Data
+* Market & Region Information
+* Sales & Profit Metrics
+* Delivery Status
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technology Stack
 
-### Programming
+### Programming Language
 
-- Python
+* Python
 
 ### Data Analysis
 
-- Pandas
-- NumPy
+* Pandas
+* NumPy
 
 ### Machine Learning
 
-- Scikit-Learn
-- Random Forest Classifier
+* Scikit-Learn
+* Random Forest Classifier
 
-### Visualization
+### Data Visualization
 
-- Plotly
-- Matplotlib
+* Plotly
+* Matplotlib
 
 ### Dashboard
 
-- Streamlit
+* Streamlit
 
 ---
 
@@ -79,54 +87,73 @@ Dataset contains:
 
 ### Data Preprocessing
 
-- Missing value handling
-- Feature engineering
-- Categorical encoding
-- Feature selection
+* Missing value handling
+* Feature engineering
+* Categorical encoding
+* Data cleaning
 
-### Model
+### Model Development
 
-Random Forest Classifier
+* Random Forest Classifier
+* Automated preprocessing pipeline
+* Risk probability generation
 
-### Outputs
+### Output
 
-- Delay Probability
-- Risk Category
-- Operational Recommendation
+* Delay Probability
+* Risk Category
+* Operational Recommendation
 
 ---
 
-## 📈 Dashboard Modules
+## 📈 Dashboard Features
 
 ### Executive Summary
 
-- Total Orders
-- Delay Rate
-- Sales at Risk
-- Profit at Risk
-- Business Recommendations
+Provides a high-level business overview including:
+
+* Orders Analysed
+* Delay Rate
+* Sales at Risk
+* Profit at Risk
+* Strategic Recommendations
+
+### Risk Overview
+
+Provides visual analysis of:
+
+* Delayed vs Non-Delayed Orders
+* Customer Segment Risk Distribution
+* Delay Risk Insights
 
 ### Delay Risk Analysis
 
-- Delayed vs Non-Delayed Orders
-- Customer Segment Risk
-- Shipping Performance Analysis
+Analyzes:
+
+* Shipping Performance
+* Sales Impact
+* Delay Patterns
+* Delivery Risk Drivers
 
 ### Operations Action Panel
 
-- High-Risk Order Queue
-- Risk Categorization
-- Delay Probability Distribution
-- Operational Action Recommendations
+Provides:
+
+* High-Risk Order Queue
+* Risk Categorization
+* Operational Recommendations
+* Risk Distribution Analysis
 
 ### Model Performance
 
-- Accuracy
-- Precision
-- Recall
-- F1 Score
-- Confusion Matrix
-- ROC Curve
+Includes:
+
+* Accuracy
+* Precision
+* Recall
+* F1 Score
+* Confusion Matrix
+* ROC Curve
 
 ---
 
@@ -149,13 +176,11 @@ Random Forest Classifier
 ## 📁 Project Structure
 
 ```text
-Project 2/
+Delivery-Risk-Prediction/
 │
 ├── dashboard/
 │   ├── app.py
 │   └── style.css
-│
-├── data/
 │
 ├── models/
 │   ├── delivery_risk_model.pkl
@@ -165,6 +190,9 @@ Project 2/
 │   └── figures/
 │
 ├── screenshots/
+│   ├── executive_summary.png
+│   ├── risk_overview.png
+│   └── operations_action_panel.png
 │
 ├── src/
 │   ├── data_loader.py
@@ -178,37 +206,43 @@ Project 2/
 │   └── kpi_calculator.py
 │
 ├── main.py
-├── requirement.txt
+├── requirements.txt
 └── README.md
 ```
 
 ---
 
-## 🚀 Key Business Insights
+## 📊 Key Business Insights
 
-- More than half of shipments show delay risk.
-- Certain markets and regions exhibit consistently higher delay probability.
-- Risk scoring enables proactive shipment prioritization.
-- Early intervention can reduce customer dissatisfaction and operational losses.
+* More than half of shipments exhibit delay risk.
+* Certain regions consistently demonstrate higher delivery risk.
+* Risk scoring enables proactive shipment prioritization.
+* Early intervention can reduce operational disruptions and customer dissatisfaction.
+* Data-driven logistics planning improves supply chain efficiency.
 
 ---
 
-## 🔮 Future Improvements
+## 🚀 Future Improvements
 
-- XGBoost Integration
-- LightGBM Integration
-- Hyperparameter Tuning
-- Real-Time Prediction APIs
-- Cloud Deployment
-- Automated Alert System
+* XGBoost Integration
+* LightGBM Integration
+* Hyperparameter Optimization
+* Real-Time Prediction APIs
+* Automated Alert System
+* Cloud Monitoring Dashboard
 
 ---
 
 ## 👨‍💻 Author
 
-**Hitesh Kandpal**
+### Hitesh Kandpal
 
-B.Tech CSE Student  
-Machine Learning • Data Analytics • Predictive Modeling
+B.Tech Computer Science Engineering
 
-GitHub: https://github.com/Hitesh20377
+Machine Learning | Data Analytics | Predictive Modeling
+
+GitHub:
+https://github.com/Hitesh20377
+
+LinkedIn:
+(Add Your LinkedIn Profile Here)
