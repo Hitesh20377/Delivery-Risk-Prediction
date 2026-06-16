@@ -372,7 +372,11 @@ Add screenshots here after uploading:
 
 ### Executive Overview
 
-![Executive Overview](reports/figures/dashboard_overview.png)
+![Confusion Matrix](reports/figures/confusion_matrix.png)
+
+![Feature Importance](reports/figures/feature_importance.png)
+
+![ROC Curve](reports/figures/roc_curve.png)
 
 ### Risk Analysis
 
