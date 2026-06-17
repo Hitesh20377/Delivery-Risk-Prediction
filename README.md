@@ -254,4 +254,7 @@ GitHub:
 https://github.com/Hitesh20377
 
 LinkedIn:
-(Add Your LinkedIn Profile Here)
+https://www.linkedin.com/in/hitesh-kandpal-292644286/
+
+Research Paper Link :
+
