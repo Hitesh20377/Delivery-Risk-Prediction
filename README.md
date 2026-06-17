@@ -6,7 +6,7 @@ A Machine Learning-powered logistics analytics platform that predicts shipment d
 
 ## 🌐 Live Demo
 
-**Live Application:** https://your-render-link.onrender.com
+**Live Application:** https://delivery-risk-prediction-3.onrender.com/
 
 ---
 
