@@ -18,8 +18,7 @@ st.set_page_config(
     page_icon="🚚",
     layout="wide"
 )
-
-DATA_PATH = os.path.join(BASE_DIR, "data", "processed", "cleaned_data.csv")
+DATA_PATH = os.path.join(BASE_DIR, "data", "processed", "cleaned_data_sample.csv")
 MODEL_PATH = os.path.join(BASE_DIR, "models", "delivery_risk_model.pkl")
 FIGURE_DIR = os.path.join(BASE_DIR, "reports", "figures")
 CSS_PATH = os.path.join(BASE_DIR, "dashboard", "style.css")
