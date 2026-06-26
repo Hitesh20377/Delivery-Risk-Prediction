@@ -3,9 +3,7 @@
 A Machine Learning-powered logistics analytics platform that predicts shipment delay risk before dispatch and enables operations teams to proactively manage high-risk deliveries.
 
 ---
-
  Live Demo :
-
 [Live Application](https://delivery-risk-prediction-5.onrender.com/)
 
 ---
