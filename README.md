@@ -6,13 +6,20 @@ A Machine Learning-powered logistics analytics platform that predicts shipment d
 
 ## 🌐 Live Demo
 
-**Live Application:** https://delivery-risk-prediction-5.onrender.com/
+[**Live Application:**](https://delivery-risk-prediction-5.onrender.com/)
 
 ---
 
-## 📂 GitHub Repository
+*Research Paper Link* :
+[Research_Paper](https://www.overleaf.com/read/zszhntgqtprg#b2868c)
 
-**Repository:** https://github.com/Hitesh20377/Delivery-Risk-Prediction
+---
+
+
+LinkedIn:
+[LinkedIn](https://www.linkedin.com/in/hitesh-kandpal-292644286/)
+
+
 
 ---
 
@@ -250,11 +257,5 @@ B.Tech Computer Science Engineering
 
 Machine Learning | Data Analytics | Predictive Modeling
 
-GitHub:
-https://github.com/Hitesh20377
 
-LinkedIn:
-https://www.linkedin.com/in/hitesh-kandpal-292644286/
 
-Research Paper Link :
-https://www.overleaf.com/read/zszhntgqtprg#b2868c
